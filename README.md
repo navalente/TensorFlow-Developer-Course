@@ -9,3 +9,4 @@ Notebooks are organized as follows:
 * `01`: Neural networks for regression
 * `02`: Neural networks for classification
 * `03`: Convolutional neural networks and computer vision
+* `04`: Transfer learning, part 1: Feature extraction
