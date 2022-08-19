@@ -5,8 +5,8 @@ This repository is based off the Udacity course titled: **"TensorFlow Developer 
 Link to course: [TensorFlow Developer Certificate in 2022: Zero to Mastery](https://www.udemy.com/share/104ssS3@p2f3v_X-jHBajcO0K_iG8E3WyJu164IQGb20Ma_LazwTBDwFwc4GyKpyZZVP4cHGEA==/)
 
 Notebooks are organized as follows:
-* `00`: Introduction to tensors
-* `01`: Neural networks for regression
-* `02`: Neural networks for classification
-* `03`: Convolutional neural networks and computer vision
-* `04`: Transfer learning, part 1: Feature extraction
+* `00`: Introduction to Tensors
+* `01`: Neural Networks for Regression
+* `02`: Neural Networks for Classification
+* `03`: Convolutional Neural Networks and Computer Vision
+* `04`: Transfer Learning, Part 1: Feature Extraction
