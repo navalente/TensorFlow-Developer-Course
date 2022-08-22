@@ -10,3 +10,4 @@ Notebooks are organized as follows:
 * `02`: Neural Networks for Classification
 * `03`: Convolutional Neural Networks and Computer Vision
 * `04`: Transfer Learning, Part 1: Feature Extraction
+* `05`: Transfer Learning, Part 2: Fine Tuning
