@@ -11,3 +11,4 @@ Notebooks are organized as follows:
 * `03`: Convolutional Neural Networks and Computer Vision
 * `04`: Transfer Learning, Part 1: Feature Extraction
 * `05`: Transfer Learning, Part 2: Fine Tuning
+* `06`: Transfer Learning, Part 3: Scaling Up
