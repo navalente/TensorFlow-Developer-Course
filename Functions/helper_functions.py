@@ -286,3 +286,18 @@ def calculate_results(y_true, y_pred):
                   "recall": model_recall,
                   "f1": model_f1}
   return model_results
+
+
+  def save_model_results_json(filepath,var_to_save,file_string):
+    """
+    This function allows you to save results from a model and store them as a (.json) file
+
+    Args:
+        filepath: destination of where you want results saved
+        var_to_save: variable you are saving
+
+    """
+    import json
+
+    with open(filepath+"/"+file_string+".json",'w') as f:
+        json.dump(var_to_save,f)
