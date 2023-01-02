@@ -301,3 +301,5 @@ def save_model_results_json(filepath,var_to_save,file_string):
 
     with open(filepath+"/"+file_string+".json",'w') as f:
         json.dump(var_to_save,f)
+    
+    print("Success! File written to destination.")
