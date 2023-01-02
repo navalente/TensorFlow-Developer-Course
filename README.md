@@ -14,3 +14,4 @@ Notebooks are organized as follows:
 * `06`: Transfer Learning, Part 3: Scaling Up
 * `07`: Milestone Project 1: Food Vision Big
 * `08`: Natural Language Processing (NLP)
+* `09`: Milestone Project 2: Skim Lit
