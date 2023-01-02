@@ -295,6 +295,7 @@ def calculate_results(y_true, y_pred):
     Args:
         filepath: destination of where you want results saved
         var_to_save: variable you are saving
+        file_string: name of file you are saving
 
     """
     import json
