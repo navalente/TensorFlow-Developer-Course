@@ -15,3 +15,4 @@ Notebooks are organized as follows:
 * `07`: Milestone Project 1: Food Vision Big
 * `08`: Natural Language Processing (NLP)
 * `09`: Milestone Project 2: Skim Lit
+* `10`: Time Series Forecasting
