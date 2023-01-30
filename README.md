@@ -16,3 +16,4 @@ Notebooks are organized as follows:
 * `08`: Natural Language Processing (NLP)
 * `09`: Milestone Project 2: Skim Lit
 * `10`: Time Series Forecasting
+* `11`: Preparing for TensorFlow Certificate
